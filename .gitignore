@@ -1,0 +1,8 @@
+build/
+__pycache__/
+*.pyc
+*.o
+*.so
+nvngx*.dll
+nvapi64.dll
+binaries/
